@@ -1,0 +1,7 @@
+const riam = require("riam");
+
+async function main() {
+  const result = await riam.run("general", { task: "translate", text: "Hello" });
+  console.log(result);
+}
+main();
