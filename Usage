@@ -1,0 +1,14 @@
+# Using the RIAM Framework
+
+The RIAM Framework provides two operational modes:
+
+## 1. RSOF (General Mode)
+Ideal for:
+- Standard tasks
+- Moderate reasoning operations
+- Basic AI-driven flows
+
+### Example
+```js
+const riam = require("riam");
+riam.run("general", { task: "summarize", input: "..." });
