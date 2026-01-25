@@ -1,0 +1,10 @@
+# Code Owners for RIAM Framework
+
+# Default owners — receive review requests for all files
+* @andradeamoako612-ctrl
+
+# Module-specific ownership
+src/core/      @andradeamoako612-ctrl
+src/engine/    @andradeamoako612-ctrl
+docs/          @andradeamoako612-ctrl
+tests/         @andradeamoako612-ctrl
