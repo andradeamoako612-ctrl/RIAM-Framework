@@ -1,0 +1,54 @@
+# Contributing to the RIAM Framework
+
+Thank you for your interest in contributing to the RIAM Framework!  
+We welcome improvements, bug fixes, feature suggestions, and documentation updates.
+
+---
+
+## 🔧 Contribution Process
+
+1. **Fork the repository**
+2. **Create a new branch**
+3. **Write your code and tests**
+4. **Ensure linting and formatting pass**
+5. **Commit using conventional commits**
+Examples:
+- `feat: add new parser module`
+- `fix: correct async handler`
+- `docs: update usage guides`
+6. **Push your branch**
+7. **Open a Pull Request (PR)**
+- Describe your changes clearly
+- Reference issue numbers if applicable
+
+---
+
+## 🔍 Code Standards
+
+- Use **Node.js (LTS)**  
+- Follow **ESLint + Prettier**
+- Use **modular architecture**  
+- Maintain **100% error handling coverage**
+
+---
+
+## 🧪 Testing
+
+- All features require automated tests
+- Use:
+- **Jest** for unit tests  
+- **Supertest** for API tests  
+- No PR will be merged without passing tests
+
+---
+
+## 🛡 Security
+
+- Never include secrets in commits
+- Report vulnerabilities privately via email
+
+---
+
+## ❤️ Thank You
+
+Your contributions help make the RIAM Framework powerful and reliable.
