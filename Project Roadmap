@@ -1,0 +1,155 @@
+📍 RIAM Framework – Project Roadmap
+Overview
+
+This roadmap outlines the planned development phases for the RIAM Framework, including new features, improvements, and long-term vision. Updates will be made as milestones are completed and new priorities emerge.
+
+🟦 Q1 2026 – Foundation & Core Release (v1.x)
+✅ 1.0.0 Stable Release
+
+Release foundational RSOF (General Mode)
+
+Release RIAM-R (Research Mode)
+
+Publish Node.js framework version
+
+Add documentation:
+
+README
+
+LICENSE (Apache 2.0)
+
+NOTICE
+
+SECURITY.md
+
+CONTRIBUTING.md
+
+CODE_OF_CONDUCT.md
+
+🔨 Core Enhancements
+
+Create plugin architecture
+
+Implement modular engine core
+
+Provide API reference documentation
+
+Provide example project templates
+
+🟦 Q2 2026 – Developer Tools Expansion (v1.5.x)
+🧩 Plugin System Expansion
+
+Create official plugins:
+
+Data Analyzer Plugin
+
+Memory Expansion Plugin
+
+Optimization Logic Plugin
+
+Research Assistant Plugin
+
+🛠 Developer Experience
+
+Add CLI tool: riam-cli
+
+Add auto-generator for:
+
+project structure
+
+modes definition
+
+engine configuration
+
+📚 Documentation Work
+
+Add Tutorials section:
+
+Build your first RIAM Mode
+
+Extending RIAM Engine
+
+Add Examples repository
+
+🟦 Q3 2026 – Ecosystem Growth (v2.x)
+🌐 Multi-Language Support
+
+Python version of RIAM Framework
+
+TypeScript-first refactor
+
+Browser-compatible RIAM Engine Lite
+
+⚙ New Features
+
+Mode Chaining (multiple modes working together)
+
+Research Pipeline Automations
+
+External Knowledge Connect Support (API connectors)
+
+🚀 Release Automation
+
+Semantic versioning support
+
+Auto-changelog generation
+
+CI/CD workflows for GitHub
+
+🟦 Q4 2026 – Enterprise Expansion (v3.x)
+🧠 Advanced Research Intelligence System
+
+Auto-research loops
+
+Knowledge graph builder
+
+Research teams (AI–AI collaboration)
+
+🛡 Security, Compliance & Production
+
+Package signing
+
+Module sandboxing
+
+Enterprise configurations
+
+Permission-based mode execution
+
+🧩 Enterprise Plugins
+
+Audit Logger
+
+Streaming Mode Executor
+
+High-Availability Engine Cluster
+
+🟦 Long-Term Vision (2027+)
+🌍 RIAM Ecosystem
+
+Marketplace for modes and plugins
+
+Cloud-hosted RIAM Engine service
+
+Full automation suite for research workloads
+
+💡 AI Intelligence Extensions
+
+Autonomous reasoning extensions
+
+Multi-agent mode support
+
+Hybrid human–AI collaboration modes
+
+🔭 Research OS
+
+A complete operating system for research processes, powered by RIAM.
+
+📝 How to Contribute to the Roadmap
+
+We welcome suggestions and contributions. Submit proposals via:
+
+GitHub Issues
+
+Discussions
+
+Pull Requests with the “Roadmap Proposal” label
