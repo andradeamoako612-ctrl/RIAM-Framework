@@ -1,0 +1,44 @@
+# 📄 RIAM Framework – Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on:
+- Keep a Changelog
+- Semantic Versioning (SemVer)
+
+---
+
+## [Unreleased]
+### Added
+- Pending improvements not yet assigned to a release.
+
+---
+
+## [1.0.0] – 2026-01-25
+### Added
+- First stable release of RIAM Framework.
+- RSOF (General Mode) system.
+- RIAM-R (Research Mode).
+- Node.js framework version.
+- Documentation:
+  - README
+  - LICENSE (Apache 2.0)
+  - NOTICE
+  - SECURITY.md
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+
+### Improved
+- Modular mode architecture.
+- Core engine stability and performance.
+
+### Notes
+- This marks the foundation of the RIAM Engine ecosystem.
+
+---
+
+## [0.1.0] – 2026-01-22 (Pre-release)
+### Added
+- Initial engine concept.
+- Basic modes prototype.
+- Project initialization and folder structure.
+
