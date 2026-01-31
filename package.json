@@ -1,0 +1,24 @@
+{
+  "name": "riam-framework",
+  "version": "1.0.0",
+  "description": "RIAM Framework — Modular Reasoning Engine with RSOF & RIAM-R Modes",
+  "main": "src/index.js",
+  "keywords": [
+    "riam",
+    "framework",
+    "AI-engine",
+    "research-mode",
+    "reasoning-engine",
+    "RSOF",
+    "RIAM-R"
+  ],
+  "author": "Amoako Richard",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andradeamoako612-ctrl/RIAM-Framework.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
